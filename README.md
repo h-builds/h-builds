@@ -5,14 +5,14 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyhoracio&theme=react&show_icons=true&layout=compact&langs_count=6"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-builds&theme=react&show_icons=true&layout=compact&langs_count=6"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=codebyhoracio&theme=react&show_icons=true"
+      src="https://github-readme-stats.vercel.app/api?username=h-builds&theme=react&show_icons=true"
     />
   </a>
 </p>
@@ -28,7 +28,7 @@
 
 
 <!--
-**codebyhoracio/codebyhoracio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**h-builds/h-builds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
