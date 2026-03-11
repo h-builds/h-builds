@@ -24,6 +24,8 @@
 <p align="center">
   <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
 </p>
 
 
