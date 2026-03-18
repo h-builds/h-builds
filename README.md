@@ -11,17 +11,24 @@ Building high-performance, deterministic commerce solutions **Remote**, currentl
 
 I build digital products that balance extreme technical performance with strategic human intent.
 
-#### [🔗 Eco-Commerce Orchestrator](https://eco-commerce-orchestrator.achegideas.workers.dev/)
+#### [🔗 Eco-Commerce Orchestrator](https://eco-commerce-orchestrator.achegideas.workers.dev/) *(Active Development)*
 **The Technical Brawn | Edge-Native Infrastructure**
 * **Challenge:** Sub-millisecond pricing determinism in a distributed stateless environment.
 * **Architecture:** Next.js 16 + Go (WebAssembly) + Cloudflare Workers.
 * **Key Achievement:** Offloading heavy business logic to Wasm to maintain a 60fps main-thread UI performance.
+
+#### [🌿 Eco-Trace: Radical ESG Traceability](https://github.com/h-builds/eco-trace) *(Active Development)*
+**The Intelligence Layer | Edge-Native Supply Chain** 
+* **Challenge:** Delivering sub-millisecond, deterministic validation of ESG metrics across a decentralized industrial supply chain.
+* **Architecture:** React 19 + Vue 3.5 Vapor + Go (WebAssembly) + Cloudflare Workers & D1.
+* **Key Focus:** Building an agentic cognitive substrate with zero-hallucination governance and immutable edge persistence. *(Currently in Phase: Alpha)*
 
 #### [🔗 Mademoiselle Rosalita](https://mademoiselle-rosalita.pages.dev)
 **The Creative Intent | Studio Performance Site**
 * **Focus:** A high-performance Astro 6 studio site built with human-led intent in a world of AI noise. 🦒✨
 * **Tech:** Astro 6, Tailwind CSS, Optimized Asset Pipeline.
 * **Key Achievement:** Achieving perfect lighthouse scores while maintaining a rich, boutique visual identity.
+
 
 ---
 
