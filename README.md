@@ -23,6 +23,19 @@ I build digital products that balance extreme technical performance with strateg
 * **Architecture:** React 19 + Vue 3.5 Vapor + Go (WebAssembly) + Cloudflare Workers & D1.
 * **Key Focus:** Building an agentic cognitive substrate with zero-hallucination governance and immutable edge persistence. *(Currently in Phase: Alpha)*
 
+#### [🔥 WhatsApp Conversion System](https://food-conversion-system.pages.dev/)
+**The Revenue Layer | High-Converting Food Experiences**
+
+* **Challenge:** Transform visually appealing restaurant landing pages into high-converting, frictionless ordering systems.
+* **Approach:** Built a WhatsApp-first conversion architecture with aggressive UX patterns:
+  - Single dominant CTA strategy
+  - Urgency escalation (Hero → Menu → Final CTA)
+  - Decision-driven microcopy
+  - Sticky conversion triggers
+* **Execution:** Developed 3 fully-realized vertical demos (Pizza, Tacos, Ramen) using Astro + Tailwind, optimized for performance, accessibility (WCAG AA/AAA), and mobile-first interaction.
+* **Key Achievement:** Balanced premium design, accessibility compliance, and conversion psychology into a reusable UI system ready for real-world monetization.
+* **Impact:** Designed as a scalable template for local businesses to increase direct orders via WhatsApp, eliminating dependency on third-party delivery platforms.
+
 #### [🔗 Mademoiselle Rosalita](https://mademoiselle-rosalita.pages.dev)
 **The Creative Intent | Studio Performance Site**
 * **Focus:** A high-performance Astro 6 studio site built with human-led intent in a world of AI noise. 🦒✨
@@ -36,7 +49,7 @@ I build digital products that balance extreme technical performance with strateg
 
 | Category | Technologies |
 | :--- | :--- |
-| **Frontend** | React (Expert), Next.js (App Router), TypeScript, Tailwind CSS, Framer Motion |
+| **Frontend / CMS** | React (Expert), Next.js (App Router), TypeScript, Tailwind CSS, Framer Motion, Astro, WordPress (Headless / Custom Builds) |
 | **Edge & Cloud** | Cloudflare Workers, Wasm Interop, Service Bindings, Edge DB (D1) |
 | **Systems & Logic** | Go (High-Perf Binaries), Node.js, REST/JSON-RPC 2.0 |
 | **Business** | MBA Strategy, Project Management (IT Focus), UI/UX Performance Auditing |
@@ -68,4 +81,5 @@ I focus on **Main Thread Liberation** and **Deterministic Consistency** to ensur
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="30" alt="React" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" height="30" alt="Next" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" height="30" alt="Go" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" height="30" alt="Astro" />
 </p>
