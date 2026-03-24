@@ -49,7 +49,7 @@ I build digital products that balance extreme technical performance with strateg
 
 | Category | Technologies |
 | :--- | :--- |
-| **Frontend / CMS** | React (Expert), Next.js (App Router), TypeScript, Tailwind CSS, Framer Motion, Astro, WordPress (Headless / Custom Builds) |
+| **Frontend / CMS** | React (Expert), Next.js (App Router), TypeScript, Tailwind CSS, Framer Motion, Astro, WordPress (Custom Themes, Headless, Performance Optimization) |
 | **Edge & Cloud** | Cloudflare Workers, Wasm Interop, Service Bindings, Edge DB (D1) |
 | **Systems & Logic** | Go (High-Perf Binaries), Node.js, REST/JSON-RPC 2.0 |
 | **Business** | MBA Strategy, Project Management (IT Focus), UI/UX Performance Auditing |
