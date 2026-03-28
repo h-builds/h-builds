@@ -18,18 +18,6 @@ I build digital products that balance extreme technical performance with strateg
 * **Key Innovation:** Implementation of a **"Prompt Firewall" (`.ai/` governance)** that enforces strict transactional boundaries and event-driven consistency, ensuring 100% deterministic AI-generated code.
 * **Technical Moat:** Event Sourcing with **Transactional Outbox** and **Main Thread Liberation** via Vue Vapor, achieving extreme operational performance for real-time logistics.
 
-#### [🌿 Eco-Trace: Radical ESG Traceability](https://github.com/h-builds/eco-trace) *(Active Development)*
-**The Intelligence Layer | Edge-Native Supply Chain** 
-* **Challenge:** Delivering sub-millisecond, deterministic validation of ESG metrics across a decentralized industrial supply chain.
-* **Architecture:** React 19 + Vue 3.5 Vapor + Go (WebAssembly) + Cloudflare Workers & D1.
-* **Key Focus:** Building an agentic cognitive substrate with zero-hallucination governance and immutable edge persistence. *(Currently in Phase: Alpha)*
-
-#### [🔗 Eco-Commerce Orchestrator](https://eco-commerce-orchestrator.achegideas.workers.dev/) *(Active Development)*
-**The Technical Brawn | Edge-Native Infrastructure**
-* **Challenge:** Sub-millisecond pricing determinism in a distributed stateless environment.
-* **Architecture:** Next.js 16 + Go (WebAssembly) + Cloudflare Workers.
-* **Key Achievement:** Offloading heavy business logic to Wasm to maintain a 60fps main-thread UI performance.
-
 #### [🔥 WhatsApp Conversion System](https://food-conversion-system.pages.dev/)
 **The Revenue Layer | High-Converting Food Experiences**
 
@@ -42,6 +30,18 @@ I build digital products that balance extreme technical performance with strateg
 * **Execution:** Developed 3 fully-realized vertical demos (Pizza, Tacos, Ramen) using Astro + Tailwind, optimized for performance, accessibility (WCAG AA/AAA), and mobile-first interaction.
 * **Key Achievement:** Balanced premium design, accessibility compliance, and conversion psychology into a reusable UI system ready for real-world monetization.
 * **Impact:** Designed as a scalable template for local businesses to increase direct orders via WhatsApp, eliminating dependency on third-party delivery platforms.
+
+#### [🔗 Eco-Commerce Orchestrator](https://eco-commerce-orchestrator.achegideas.workers.dev/) *(Active Development)*
+**The Technical Brawn | Edge-Native Infrastructure**
+* **Challenge:** Sub-millisecond pricing determinism in a distributed stateless environment.
+* **Architecture:** Next.js 16 + Go (WebAssembly) + Cloudflare Workers.
+* **Key Achievement:** Offloading heavy business logic to Wasm to maintain a 60fps main-thread UI performance.
+
+#### [🌿 Eco-Trace: Radical ESG Traceability](https://github.com/h-builds/eco-trace) *(Active Development)*
+**The Intelligence Layer | Edge-Native Supply Chain** 
+* **Challenge:** Delivering sub-millisecond, deterministic validation of ESG metrics across a decentralized industrial supply chain.
+* **Architecture:** React 19 + Vue 3.5 Vapor + Go (WebAssembly) + Cloudflare Workers & D1.
+* **Key Focus:** Building an agentic cognitive substrate with zero-hallucination governance and immutable edge persistence. *(Currently in Phase: Alpha)*
 
 #### [🔗 Mademoiselle Rosalita](https://mademoiselle-rosalita.pages.dev)
 **The Creative Intent | Studio Performance Site**
