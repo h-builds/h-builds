@@ -68,7 +68,7 @@ I build digital products that balance extreme technical performance with strateg
 
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://githubreadmestats-two.vercel.app/api/top-langs/?username=h-builds&theme=react&show_icons=true&layout=compact&langs_count=6" alt="Top Languages" />
+    <img src="https://githubreadmestats-two.vercel.app/api/top-langs/?username=h-builds&theme=react&show_icons=true&layout=compact&langs_count=9" alt="Top Languages" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="165" src="https://githubreadmestats-two.vercel.app/api?username=h-builds&theme=react&show_icons=true" alt="GitHub Stats" />
