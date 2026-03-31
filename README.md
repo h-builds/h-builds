@@ -11,7 +11,7 @@ Building high-performance, deterministic commerce solutions **Remote**, currentl
 
 I build digital products that balance extreme technical performance with strategic human intent and AI orchestration.
 
-#### [📦 NexusWMS: Agentic Warehouse Orchestration](https://github.com/h-builds/nexus-wms) *(Phase 1: Foundation Core)*
+#### [📦 NexusWMS: Agentic Warehouse Orchestration](https://github.com/h-builds/nexus-wms) *(Phase 4: Total integration)*
 **The Governance Layer | Modular Monolith & AI-Assisted Orchestration**
 * **Challenge:** Preventing architectural drift and hallucinations in a high-concurrency WMS built with autonomous AI coding agents.
 * **Architecture:** Laravel 13 (Modular Monolith) + Vue 3.6 (Vapor Mode) + PostgreSQL.
