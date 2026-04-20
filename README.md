@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Horacio (@h-builds)
-**Senior UI/Frontend Lead | MBA | Edge-Native Architect**
+**Senior Full Stack Developer | MBA | Edge-Native Architect**
 
 Building high-performance, deterministic commerce solutions **Remote**, currently from **Venezuela**, for the global market. I specialize in the intersection of **Frontend Excellence**, **Edge Computing**, and **AI Governance**.
 
